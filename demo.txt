@@ -2,11 +2,4 @@ This is my first class
 
 we are learning git and github
 
-1. git init
-2. git config user.name <User_name>
-3. git config user.email <User_email>
-4. git add <file_name>
-5. git status
-6. git commit -m "we can write all the comments"
-7. git log
-
+ 
